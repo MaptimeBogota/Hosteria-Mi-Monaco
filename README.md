@@ -9,7 +9,7 @@ Estas son las fechas de captura de las fotos:
 Hay diferente tipos de fotos:
 
 * Drone: Las fotos tomadas en el drone.
-* Ortofoto: La ortofoto generada a partir de las fotos del drone.
+* Ortofoto: [Publicada en OpenAerialMap](https://map.openaerialmap.org/#/-75.77367067337036,4.509558999435386,16/user/5d706f805583d40006c15787/6590a22cbff11f000103b0ea.tif?_k=znn3ra)
 * Trazas: Trazas GPX tomadas en terreno, que ayudar a alinear la ortofoto.
 
 Todos los archivos (fotos, ortofotos, trazas) de este repositorio están bajo dominio público.
